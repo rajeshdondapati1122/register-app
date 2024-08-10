@@ -31,11 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-<<<<<<< HEAD
-   <h1> Thank You for learning cicd on today</h1>
-=======
-   <h1> Thank You for learning cicd today </h1>
->>>>>>> f8c75a7235da2c9e46994bf57d6b455f35d7966f
+   <h1> Thank You for learning cicd topic with jenkins and docker</h1>
    <br>
    <h1> Happy Learning. See You Again. </h1>
    
