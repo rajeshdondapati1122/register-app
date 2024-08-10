@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You for learning cicd topic with jenkins and docker</h1>
+   <h1> Thank You for learning cicd topic with jenkins and docker with k8s</h1>
    <br>
    <h1> Happy Learning. See You Again. </h1>
    
